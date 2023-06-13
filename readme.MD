@@ -1,0 +1,1 @@
+This are simple functions requested at the first challenge about JavaScript at the Tec. Web class!
